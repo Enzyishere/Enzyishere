@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enzyishere
+- 👋 Hi, I’m Abdul Rehman
 - 👀 I’m interested in ... programming, creative stuff.
 - 🌱 I’m currently learning ...C Sharp.
 - 💞️ I’m looking to collaborate on ...Logic Building.
